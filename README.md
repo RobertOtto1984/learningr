@@ -1,6 +1,7 @@
 
-<!-- TODO: Add more to the title of your project here -->
-# {{ ProjectName }}
+# Learning R in DIfE in Potsdam
+
+R and Git and fun ....
 
 <!-- TODO: Give a brief description of what your project is about -->
 
